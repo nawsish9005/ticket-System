@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\filessss\\ticket-System\\ticket_System_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|e:\\filessss\\ticket-system\\ticket_system_api\\ticket_system_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|solutionrelative:ticket_system_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|e:\\filessss\\ticket-system\\ticket_system_api\\ticket_system_api\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|solutionrelative:ticket_system_api\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|e:\\filessss\\ticket-system\\ticket_system_api\\ticket_system_api\\dtos\\ticketreplydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|solutionrelative:ticket_system_api\\dtos\\ticketreplydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|e:\\filessss\\ticket-system\\ticket_system_api\\ticket_system_api\\dtos\\ticketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|solutionrelative:ticket_system_api\\dtos\\ticketresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|e:\\filessss\\ticket-system\\ticket_system_api\\ticket_system_api\\dtos\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|solutionrelative:ticket_system_api\\dtos\\ticketcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|e:\\filessss\\ticket-system\\ticket_system_api\\ticket_system_api\\models\\ticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|solutionrelative:ticket_system_api\\models\\ticketresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|e:\\filessss\\ticket-system\\ticket_system_api\\ticket_system_api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|solutionrelative:ticket_system_api\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|e:\\filessss\\ticket-system\\ticket_system_api\\ticket_system_api\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9660CCF-A40F-4ED4-B0B7-724E9BA2E620}|ticket_System_API\\ticket_System_API.csproj|solutionrelative:ticket_system_api\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ticket_System_API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ticket_System_API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:00:15.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Dtos\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "ticket_System_API\\Dtos\\UserRegisterDto.cs",
+              "ToolTip": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Dtos\\UserRegisterDto.cs",
+              "RelativeToolTip": "ticket_System_API\\Dtos\\UserRegisterDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:59:38.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketReplyDto.cs",
+              "DocumentMoniker": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Dtos\\TicketReplyDto.cs",
+              "RelativeDocumentMoniker": "ticket_System_API\\Dtos\\TicketReplyDto.cs",
+              "ToolTip": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Dtos\\TicketReplyDto.cs",
+              "RelativeToolTip": "ticket_System_API\\Dtos\\TicketReplyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:59:29.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketResponseDto.cs",
+              "DocumentMoniker": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Dtos\\TicketResponseDto.cs",
+              "RelativeDocumentMoniker": "ticket_System_API\\Dtos\\TicketResponseDto.cs",
+              "ToolTip": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Dtos\\TicketResponseDto.cs",
+              "RelativeToolTip": "ticket_System_API\\Dtos\\TicketResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:59:20.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketCreateDto.cs",
+              "DocumentMoniker": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Dtos\\TicketCreateDto.cs",
+              "RelativeDocumentMoniker": "ticket_System_API\\Dtos\\TicketCreateDto.cs",
+              "ToolTip": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Dtos\\TicketCreateDto.cs",
+              "RelativeToolTip": "ticket_System_API\\Dtos\\TicketCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T07:59:10.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ticketResponse.cs",
+              "DocumentMoniker": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Models\\ticketResponse.cs",
+              "RelativeDocumentMoniker": "ticket_System_API\\Models\\ticketResponse.cs",
+              "ToolTip": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Models\\ticketResponse.cs",
+              "RelativeToolTip": "ticket_System_API\\Models\\ticketResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:30:57.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "ticket_System_API\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "ticket_System_API\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:29:53.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ticket.cs",
+              "DocumentMoniker": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Models\\ticket.cs",
+              "RelativeDocumentMoniker": "ticket_System_API\\Models\\ticket.cs",
+              "ToolTip": "E:\\filessss\\ticket-System\\ticket_System_API\\ticket_System_API\\Models\\ticket.cs",
+              "RelativeToolTip": "ticket_System_API\\Models\\ticket.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T06:29:18.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
