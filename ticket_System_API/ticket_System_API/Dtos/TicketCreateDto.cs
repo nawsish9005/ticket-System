@@ -2,7 +2,6 @@
 
 namespace ticket_System_API.Dtos
 {
-   // ✅ Purpose: Used by Users when creating a new support ticket.
     public class TicketCreateDto
     {
         public string Title { get; set; }

@@ -9,5 +9,8 @@
         public string UserId { get; set; }
         public ApplicationUser User { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+        // ✅ Add this navigation property
+        public List<ticketResponse> Responses { get; set; } = new List<ticketResponse>();
     }
 }
